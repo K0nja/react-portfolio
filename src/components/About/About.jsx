@@ -15,16 +15,6 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
-              <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
@@ -35,12 +25,20 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/controllerIcon.png")} alt="Controller icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Game Developer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I make games for fun using Unity and Godot
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/soccerIcon.png")} alt="Soccer icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Part-time Soccer Coach</h3>
+              <p>
+                I coach my old high school boys soccer team as well as coach a local youth club
               </p>
             </div>
           </li>

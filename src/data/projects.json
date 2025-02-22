@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": "Portfolio Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "I stood up this portfolio website (with some help from a tutorial) to show off my gaming projects.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.konja.gg",
+    "source": "https://github.com/K0nja/react-portfolio"
+  },
+  {
+    "title": "Future Project 1",
+    "imageSrc": "projects/project.png",
+    "description": "This is where I'll display my first project. A small 2d game.",
+    "skills": ["Unity", "C#"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Future Project 2",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is where I'll display my second project. Another small 2d game",
+    "skills": ["Unity", "C#"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

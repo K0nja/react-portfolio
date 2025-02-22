@@ -1,15 +1,7 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "Spring Boot",
+    "imageSrc": "skills/springboot.png"
   },
   {
     "title": "Node",
@@ -24,8 +16,16 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Spring Boot",
-    "imageSrc": "skills/springboot.png"
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
   },
   {
     "title": "Unity",

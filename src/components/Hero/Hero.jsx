@@ -11,6 +11,8 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a full-stack developer with 10 years of experience. I have tons of backend experince as well as a hobby in game development. Reach out if you'd like to learn more!
         </p>
+        <p></p>
+        <p className={styles.description}>You can find my full resume <b><a href="https://drive.google.com/file/d/1oFyuQyALrBNelPq-VV4Kf8pcKh9bi8BB/view?usp=sharing">here</a></b></p>
         <a href="mailto:mariok1992@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>

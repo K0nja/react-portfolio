@@ -16,6 +16,14 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "PostgresSQL",
+    "imageSrc": "skills/postgressql.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -30,5 +38,9 @@
   {
     "title": "Unity",
     "imageSrc": "skills/unity.png"
-  }
+  },
+  {
+    "title": "Google Cloud Platform",
+    "imageSrc": "skills/googleCloudPlatform.png"
+  },
 ]

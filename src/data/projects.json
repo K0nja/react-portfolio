@@ -2,7 +2,7 @@
   {
     "title": "Portfolio Website",
     "imageSrc": "projects/project.png",
-    "description": "I stood up this portfolio website (with some help from a tutorial) to show off my gaming projects.",
+    "description": "I stood up this portfolio website to show off my gaming projects.",
     "skills": ["React", "Node"],
     "demo": "https://www.konja.gg",
     "source": "https://github.com/K0nja/react-portfolio"

@@ -8,12 +8,12 @@
     "source": "https://github.com/K0nja/react-portfolio"
   },
   {
-    "title": "Future Project 1",
-    "imageSrc": "projects/project.png",
-    "description": "This is where I'll display my first project. A small 2d game.",
+    "title": "Just The Boss Fight",
+    "imageSrc": "projects/TitleScreen.png",
+    "description": "A small 2D game made in Unity where you only fight the boss.",
     "skills": ["Unity", "C#"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://konja.itch.io/just-the-boss-fight",
+    "source": "https://github.com/K0nja/JustTheBoss"
   },
   {
     "title": "Future Project 2",

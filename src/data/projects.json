@@ -16,11 +16,19 @@
     "source": "https://github.com/K0nja/JustTheBoss"
   },
   {
-    "title": "Future Project 2",
+    "title": "EasyPick Mini Mart",
     "imageSrc": "projects/project.png",
-    "description": "This is where I'll display my second project. Another small 2d game",
-    "skills": ["Unity", "C#"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Website for a local family liquor store.",
+    "skills": ["React", "Vite", "CSS"],
+    "demo": "https://easypickminimart.com",
+    "source": "https://github.com/K0nja/easypick-mini-mart"
+  },
+  {
+    "title": "Vreeland Market",
+    "imageSrc": "projects/project.png",
+    "description": "Modern React site for Vreeland Market, Woodhaven, Michigan. Features an admin panel for dynamic content updates, multiple pages, and catering menu.",
+    "skills": ["React", "Vite", "React Router", "CSS Modules"],
+    "demo": "https://vreeland-market.vercel.app/",
+    "source": "https://github.com/K0nja/vreeland-market"
   }
 ]

@@ -111,10 +111,47 @@
     width: 100%;
     flex-direction: row;
     justify-content: center;
+    gap: 20px;
+  }
+
+  .skillImageContainer {
+    width: 85px;
+    height: 85px;
+  }
+
+  .skillImageContainer img {
+    width: 52px;
+  }
+
+  .skill p {
+    font-size: 18px;
   }
 
   .history {
     width: 100%;
-    gap: 9px;
+    gap: 12px;
+  }
+
+  .historyItemDetails h3 {
+    font-size: 22px;
+  }
+
+  .historyItemDetails p {
+    font-size: 16px;
+  }
+
+  .historyItemDetails ul {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .skillImageContainer {
+    width: 70px;
+    height: 70px;
+  }
+
+  .skillImageContainer img {
+    width: 42px;
   }
 }

@@ -103,9 +103,44 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    margin-top: 24px;
   }
 
   .content {
     align-items: center;
+    text-align: center;
+  }
+
+  .title {
+    font-size: 42px;
+    margin-bottom: 20px;
+  }
+
+  .description {
+    font-size: 20px;
+    margin-bottom: 32px;
+  }
+
+  .contactBtn {
+    font-size: 20px;
+    padding: 13px 22px;
+  }
+
+  .heroImg {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .title {
+    font-size: 32px;
+  }
+
+  .description {
+    font-size: 17px;
+  }
+
+  .heroImg {
+    width: 90%;
   }
 }
